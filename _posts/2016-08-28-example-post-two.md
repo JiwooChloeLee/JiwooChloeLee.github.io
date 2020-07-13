@@ -1,5 +1,5 @@
 ---
-title: Who is Chloe Lee?
+title: Who is Chloe Lee?:smiling_face_with_three_hearts:
 category: People
 ---
 
