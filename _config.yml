@@ -37,7 +37,7 @@ timezone: Asia/South Korea # Timezone for blog posts and alike
 # 5. Collections
 collections:
   posts:
-    title: Blog # Needed for Siteleaf
+    title: Chloe's Blog # Needed for Siteleaf
     output: true
     description: "This is merely a demo, find out more [about Chloe](about)" # The post list page content
 
@@ -58,7 +58,7 @@ defaults:
 
 # 7. Site settings
 encoding: utf-8 # Make sure the encoding is right
-title: "Hello World" # Site name or title
+title: "Chloe's Blog" # Site name or title
 logo: "/assets/logo.svg" # Site logo
 # favicon: "/favicon.ico" # Uncomment to add custom favicon, or leave as is to use site logo
 description: "Research Diary" # Site description and default description
