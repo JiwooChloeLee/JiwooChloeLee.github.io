@@ -1,9 +1,9 @@
 ---
-title: Who is Mike Myers?
+title: Who is Chloe Lee?
 category: People
 ---
 
-Michael John "Mike" Myers (born May 25, 1963) is a Canadian-born performer, comedian, screenwriter, and film producer, who also holds UK and US citizenship.[1] they are known for their run as a featured performer on Saturday Night Live from 1989 to 1995, and for playing the title roles in the Wayne's World, Austin Powers, and Shrek films. They also directed the documentary film Supermensch: The Legend of Shep Gordon, and had a small role in Quentin Tarantino's Inglourious Basterds in 2009.
+Jiwoo Chloe Lee (born Jan 21, 1998) is a Canadian-born performer, comedian, screenwriter, and film producer, who also holds UK and US citizenship.[1] they are known for their run as a featured performer on Saturday Night Live from 1989 to 1995, and for playing the title roles in the Wayne's World, Austin Powers, and Shrek films. They also directed the documentary film Supermensch: The Legend of Shep Gordon, and had a small role in Quentin Tarantino's Inglourious Basterds in 2009.
 
 <!-- more -->
 
